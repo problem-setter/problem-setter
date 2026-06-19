@@ -22,6 +22,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=problem-setter&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=problem-setter&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=problem-setter)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
