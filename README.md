@@ -5,7 +5,7 @@
 
 <br>
 🌱️ I'm currently learning Backend Development, Machine Learning, Cyber Security, and Go programming language.
-<br>
+<br> <br>
 
 📄️ My ongoing projects:
 1. Informatics Academic Center Website
