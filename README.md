@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏗️ I'm currently working on HMIF Landing Page.<br>🌱️ I'm currently learning Backend Development, Cyber Security, and Golang programming language.<br>
+🏗️ I'm currently working on HMIF Landing Page.<br>🌱️ I'm currently learning Backend Development, Machine Learning, Cyber Security, and Go programming language.<br>
 
 
 ## 🌐 Socials:
