@@ -1,18 +1,14 @@
 # 💫 About Me:
-🚧️ I'm currently working on:
-1. HMIF Cerasus Landing Page Website
-2. Luco Informatics Chatbot Model
-
+🚧️ I'm currently working on HMIF Cerasus Landing Page Website and Luco Informatics Chatbot Model
 <br>
 🌱️ I'm currently learning Backend Development, Machine Learning, Cyber Security, and Go programming language.
 <br> <br>
-
 📄️ My ongoing projects:
-1. Informatics Academic Center Website
-2. UPC Website
-3. HMIF Page Website & Application
-4. IoT Smart Personal Assistant
-5. IoT Smart Agriculture
+- Informatics Academic Center Website
+- UPC Website
+- HMIF Page Website & Application
+- IoT Smart Personal Assistant
+- IoT Smart Agriculture
 
 
 ## 🌐 Socials:
